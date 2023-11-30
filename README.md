@@ -4,13 +4,18 @@ The Weather Application is a user-friendly tool that provides real-time weather 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Clone the project or simply 
 
-A few resources to get you started if this is your first Flutter project:
+- copy pubspec.yaml and the lib folder
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- make sure for the pub get dependencies 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter run the project
+
+Images:
+
+![](assets/Group%207.png)
+
+## General Details about the project
+
+
